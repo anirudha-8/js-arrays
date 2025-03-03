@@ -18,7 +18,7 @@ Below are the 10 questions covered in this module:
 | 6  | Find the index of a specific element in an array using `.indexOf()`. | [🔗 6-Problem](./6-Problem.js) |
 | 7  | Check if a value exists in an array using `.includes()`. | [🔗 7-Problem](./7-Problem.js) |
 | 8  | Combine two arrays `[1, 2]` and `[3, 4]` using `.concat()`. | [🔗 8-Problem](./8-Problem.js) |
-| 9  | Sort an array `[5, 3, 9, 1]` in ascending order. | [🔗 9-Problem](./9-Problem.js) |
+| 9  | Sort an array `[5, 2, 9, 1]` in ascending order. | [🔗 9-Problem](./9-Problem.js) |
 | 10 | Write a program to reverse an array. | [🔗 10-Problem](./10-Problem.js) |
 
 ---
